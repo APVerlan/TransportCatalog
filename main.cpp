@@ -1,9 +1,9 @@
-#include "descriptions.h"
-#include "json.h"
-#include "requests.h"
-#include "sphere.h"
-#include "transport_catalog.h"
-#include "utils.h"
+#include "headers/descriptions.h"
+#include "headers/json.h"
+#include "headers/requests.h"
+#include "headers/sphere.h"
+#include "headers/transport_catalog.h"
+#include "headers/utils.h"
 
 #include <iostream>
 
